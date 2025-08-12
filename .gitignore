@@ -1,7 +1,9 @@
-.exe
+*.exe
 
 0271_Encode_and_Decode_Strings.cpp
 
 0015_3Sum.cpp
 
 0003_Longest_Substring_Without_Repeating_Characters.cpp
+
+0155_Min_Stack.cpp
