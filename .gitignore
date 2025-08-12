@@ -1,5 +1,7 @@
 *.exe
 
+delete_exe.cpp
+
 0271_Encode_and_Decode_Strings.cpp
 
 0015_3Sum.cpp
